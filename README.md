@@ -1,1 +1,1 @@
-Recognition of Bangla Hand written digits using transfer learning model - Densenet121
+Recognition of Bangla handwritten digits using a transfer learning model - Densenet121
